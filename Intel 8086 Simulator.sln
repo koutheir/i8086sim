@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intel 8086 Simulator", "i8086sim\I8086Sim.vcproj", "{CAFADABB-9465-4EC5-AFF4-59E2EA07BFEB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intel 8086 Console Locker", "I8086CL\I8086CL.vcproj", "{5DA65652-1883-473F-8585-62DD4BB6F0A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{81D1EABA-86F5-4F23-9EBD-0D5342B3F36C}"
+	ProjectSection(SolutionItems) = preProject
+		I8086SIM.odt = I8086SIM.odt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFADABB-9465-4EC5-AFF4-59E2EA07BFEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CAFADABB-9465-4EC5-AFF4-59E2EA07BFEB}.Debug|Win32.Build.0 = Debug|Win32
+		{CAFADABB-9465-4EC5-AFF4-59E2EA07BFEB}.Release|Win32.ActiveCfg = Release|Win32
+		{CAFADABB-9465-4EC5-AFF4-59E2EA07BFEB}.Release|Win32.Build.0 = Release|Win32
+		{5DA65652-1883-473F-8585-62DD4BB6F0A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DA65652-1883-473F-8585-62DD4BB6F0A8}.Debug|Win32.Build.0 = Debug|Win32
+		{5DA65652-1883-473F-8585-62DD4BB6F0A8}.Release|Win32.ActiveCfg = Release|Win32
+		{5DA65652-1883-473F-8585-62DD4BB6F0A8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
